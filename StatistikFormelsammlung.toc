@@ -1,0 +1,15 @@
+\babel@toc {ngerman}{}
+\contentsline {part}{I\hspace {1em}Beschreibende Statistik}{3}% 
+\contentsline {chapter}{\numberline {1}Kombinatorik und Wahrscheinlichkeitsrechnung}{4}% 
+\contentsline {section}{\numberline {1.1}Kombinatorik}{4}% 
+\contentsline {subsection}{\numberline {1.1.1}Permutation}{4}% 
+\contentsline {section}{\numberline {1.2}Kombination und Variation}{4}% 
+\contentsline {section}{\numberline {1.3}Wahrscheinlichkeitsrechnung}{5}% 
+\contentsline {subsection}{\numberline {1.3.1}Wahrscheinlichkeitsverteilungen}{5}% 
+\contentsline {subsubsection}{Allgemeine Form}{5}% 
+\contentsline {subsubsection}{Hypergeometrische Verteilung}{5}% 
+\contentsline {subsubsection}{Binomialverteilung}{6}% 
+\contentsline {subsubsection}{Poissonverteilung}{6}% 
+\contentsline {subsubsection}{Geometrische Verteilung}{7}% 
+\contentsline {subsubsection}{Quantile und Zufallsstreubereich der Normalverteilung}{7}% 
+\contentsline {part}{II\hspace {1em}Deskriptive Statistik}{8}% 
