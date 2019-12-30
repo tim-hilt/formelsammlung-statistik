@@ -1,0 +1,24 @@
+#+TITLE:   Formelsammlung Statistik
+#+DATE:    Dezember 30, 2019
+#+SINCE:   {replace with next tagged release version}
+#+STARTUP: inlineimages nofold
+
+* Table of Contents :TOC_3:noexport:
+- [[#statistik-formelsammlung][Statistik Formelsammlung]]
+  - [[#themen][Themen]]
+    - [[#beschreibende-statistik][Beschreibende Statistik]]
+    - [[#auswertende-statistik][Auswertende Statistik]]
+
+* Statistik Formelsammlung
+
+** Themen
+
+*** Beschreibende Statistik
+
+- Kombinatorik
+- Lineare Regression
+- Wahrscheinlichkeitsverteilungen
+
+*** Auswertende Statistik
+
+- ...
